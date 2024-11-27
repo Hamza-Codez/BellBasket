@@ -1,11 +1,12 @@
 import { useState } from 'react'
 
+
 function App() {
 
   return (
-    <>
-      hello
-    </>
+    <h1 class="text-6xl font-bold underline bg-slate-600">
+    Hello world!
+    </h1>
   )
 }
 
