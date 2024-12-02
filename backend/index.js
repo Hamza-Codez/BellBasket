@@ -1,6 +1,6 @@
 console.log("Hello from the backend");
 
-//Packages
+// Packages
 
 import path from "path";
 import express from "express";
